@@ -1,0 +1,14 @@
+# Runtime installs live in ~/.clipwise, outputs in ~/Clipwise - never in the repo
+.venv/
+models/
+bin/
+config.json
+.ready
+.env
+__pycache__/
+*.pyc
+*.mp4
+*.wav
+*.part
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+{
+  "name": "clipwise",
+  "version": "1.0.0",
+  "description": "Clip YouTube, Twitch and Kick streams (replays or live) into ready-to-post vertical shorts. Brand-safe, unhinged and custom-rules modes.",
+  "author": {
+    "name": "SizzorOP",
+    "url": "https://github.com/SizzorOP"
+  },
+  "homepage": "https://github.com/SizzorOP/clipwise",
+  "repository": "https://github.com/SizzorOP/clipwise",
+  "license": "MIT",
+  "keywords": ["clips", "shorts", "streaming", "youtube", "twitch", "kick", "captions"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "clipwise",
+  "owner": {
+    "name": "SizzorOP",
+    "url": "https://github.com/SizzorOP"
+  },
+  "metadata": {
+    "description": "Clipwise: turn long livestreams into ready-to-post vertical shorts with Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "clipwise",
+      "source": "./plugins/clipwise",
+      "description": "Clip YouTube, Twitch and Kick streams (replays or live) into 1080x1920 shorts: facecam over gameplay, hook title, word-by-word captions with curse words starred, post caption + hashtags. Brand-safe, unhinged and custom-rules modes. Windows, macOS, Linux.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["clips", "shorts", "streaming", "youtube", "twitch", "kick", "video", "captions"]
+    }
+  ]
+}
